@@ -29,7 +29,7 @@ E neste repositório dentro da pasta **prompts_orientacoes** existem dois docume
 
 **Sobre o projeto**
 
-O SIGMINE, cadastro oficial da Agência Nacional de Mineração, lista **255 230 processos** que cobrem cerca de **218 milhões de hectares** em todo o Brasil.  
+O SIGMINE, cadastro oficial da Agência Nacional de Mineração, lista **255 230 processos** que cobrem cerca de **218 milhões de hectares** em todo o Brasil (downloads feitos 1o. de julho de 2025).  
 Este repositório oferece:
 
 * **Geoprocessamento:** reprojeta o shapefile (EPSG 5880), calcula área e seleciona os top‑10 processos por extensão.
