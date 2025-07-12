@@ -17,7 +17,7 @@
 6. [Notebook Colab](#notebook-colab)
 7. [Fontes de dados abertas](#fontes-de-dados-abertas)
 8. [Fluxo do processo](#fluxo-do-processo)
-9. [Limitações & ética](#limitações-&-ética)
+9. [Limitações & ética](#limitações-e-ética)
 10. [Créditos](#créditos)
 
 ---
@@ -126,7 +126,7 @@ flowchart TD
 
 ---
 
-## limitações & ética
+## limitações e ética
 * Ausência de resultados na busca não significa falta de impacto — confirme em campo.  
 * Cotas gratuitas da Google CSE são limitadas; ao estourá‑las, a qualidade de busca pode cair.  
 * Modelos generativos podem conter erros factuais; confirme URLs antes de publicar.  
