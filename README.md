@@ -91,7 +91,6 @@ Abra **`analisa_sigmine.ipynb`** no Google Colab para análises ad‑hoc:
 * Oferece filtros dinâmicos por substância, status e UF.
 * Demonstra estudo de caso **803.237/2022** com múltiplos responsáveis e 6 municípios afetados.
 * Gera estatísticas: histogramas de área, top titulares, heatmap Brasil.
-* Exporta shapefiles temáticos e aplica mascaramento de CPFs/CNPJs conforme LGPD.
 
 ---
 
