@@ -25,6 +25,8 @@
 ## visão geral
 Scripts apresentados no **Domingo de Dados 2025** na atividade [Investigando dados ambientais: compliance e anticorrupção](https://congresso.abraji.org.br/mesa/investigando-dados-ambientais-compliance-e-anticorrupcao), que apresentou o estudo ["Dados Abertos e Combate a Crimes Ambientais"](https://www.abraji.org.br/publicacoes/dados-abertos-e-combate-a-crimes-ambientais) (Transparência Internacional Brasil, Abraji e ICV como autores)
 
+Veja os [slides da apresentação](http://bit.ly/4eC31Bo)
+
 E neste repositório dentro da pasta **prompts_orientacoes** existem dois documentos que oferecem, de forma integrada, um guia prático com 10 orientações e exemplos de investigações para jornalistas usarem dados ambientais abertos, além de um conjunto de prompts e boas práticas de IA (RAG, LLMs e Google Colab) que amplificam análises minerárias, fundiárias e de compliance, garantindo rigor metodológico, eficiência técnica e respeito ético.
 
 **Sobre o projeto**
