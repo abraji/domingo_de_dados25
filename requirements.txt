@@ -1,0 +1,18 @@
+# Dependências para Geo-processamento
+geopandas
+pyogrio
+shapely==2.0.4
+
+# Dependências para o Pipeline RAG e IA
+# Nota: Adicionamos langchain-google-community, como recomendado pelos avisos
+langchain-google-genai
+langchain-community
+langchain-google-community
+google-api-python-client
+duckduckgo-search
+chromadb
+
+# Utilitários
+pandas
+tqdm
+python-dotenv
