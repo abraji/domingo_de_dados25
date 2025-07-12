@@ -110,8 +110,7 @@ flowchart TD
 ## limitações & ética
 * Falta de resultado na busca ≠ inexistência de impacto — confirme sempre com fontes locais.  
 * Google CSE tem cota gratuita limitada; ao estourar, a qualidade cai para DuckDuckGo.  
-* Modelos generativos podem conter erros factuais; verifique as URLs citadas antes de publicar.  
-* Dados pessoais são ofuscados no notebook; respeite a LGPD ao compartilhar saídas.  
+* Modelos generativos podem conter erros factuais; verifique as URLs citadas antes de publicar.    
 * Contate comunidades afetadas antes de divulgar denúncias oriundas desta ferramenta.
 
 ---
