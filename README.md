@@ -23,6 +23,8 @@
 ---
 
 ## visão geral
+Scripts apresentados no **Domingo de Dados 2025** na atividade [Investigando dados ambientais: compliance e anticorrupção](https://congresso.abraji.org.br/mesa/investigando-dados-ambientais-compliance-e-anticorrupcao), que apresentou o estudo ["Dados Abertos e Combate a Crimes Ambientais"](https://www.abraji.org.br/publicacoes/dados-abertos-e-combate-a-crimes-ambientais) (Transparência Internacional Brasil, Abraji e ICV como autores)
+
 O SIGMINE, cadastro oficial da Agência Nacional de Mineração, lista **255 230 processos** que cobrem cerca de **218 milhões de hectares** em todo o Brasil.  
 Este repositório oferece:
 
