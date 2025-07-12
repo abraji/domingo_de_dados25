@@ -27,6 +27,8 @@ Scripts apresentados no **Domingo de Dados 2025** na atividade [Investigando dad
 
 E neste repositório dentro da pasta **prompts_orientacoes** existem dois documentos que oferecem, de forma integrada, um guia prático com 10 orientações e exemplos de investigações para jornalistas usarem dados ambientais abertos, além de um conjunto de prompts e boas práticas de IA (RAG, LLMs e Google Colab) que amplificam análises minerárias, fundiárias e de compliance, garantindo rigor metodológico, eficiência técnica e respeito ético.
 
+**Sobre o projeto**
+
 O SIGMINE, cadastro oficial da Agência Nacional de Mineração, lista **255 230 processos** que cobrem cerca de **218 milhões de hectares** em todo o Brasil.  
 Este repositório oferece:
 
