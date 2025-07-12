@@ -17,7 +17,7 @@
 6. [Notebook Colab](#notebook-colab)
 7. [Fontes de dados abertas](#fontes-de-dados-abertas)
 8. [Fluxo do processo](#fluxo-do-processo)
-9. [Limitações & ética](#limitações--ética)
+9. [Limitações & ética](#limitações-&-ética)
 10. [Créditos](#créditos)
 
 ---
