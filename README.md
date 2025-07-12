@@ -92,7 +92,6 @@ Abra **`analisa_sigmine.ipynb`** no Google Colab para análises avançadas:
 * Oferece filtros dinâmicos por substância, status e UF.
 * Demonstra estudo de caso **803.237/2022** com múltiplos responsáveis e 6 municípios afetados.
 * Gera estatísticas: histogramas de área, top titulares, heatmap Brasil.
-* Exporta shapefiles temáticos e aplica mascaramento de CPFs/CNPJs conforme LGPD.
 
 ---
 
@@ -123,7 +122,6 @@ flowchart TD
 * Ausência de resultados na busca não significa falta de impacto — confirme em campo.  
 * Cotas gratuitas da Google CSE são limitadas; ao estourá‑las, a qualidade de busca pode cair.  
 * Modelos generativos podem conter erros factuais; confirme URLs antes de publicar.  
-* Dados pessoais são ofuscados no notebook para conformidade com a LGPD.  
 * Envolva comunidades afetadas antes de divulgar denúncias baseadas nesta ferramenta.
 
 ---
