@@ -135,7 +135,7 @@ flowchart TD
 ---
 
 ## créditos
-* **Reinaldo Chaves** – concepção e código.  
+* **Reinaldo Chaves** – reichaves@gmail.com  
 * Dados SIGMINE – Agência Nacional de Mineração.  
 * Cadastro Mineiro SCM – ANM.  
 * Municípios IBGE – repositório kelvins/municipios-brasileiros.  
