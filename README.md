@@ -4,7 +4,7 @@
 [![último commit](https://img.shields.io/github/last-commit/<seu_usuario>/sigmine-rag-insights)]()
 
 > **sigmine‑rag‑insights** automatiza a análise de processos minerários do SIGMINE.  
-> Ele lê o shapefile completo, calcula áreas, prioriza os maiores processos e executa um fluxo **RAG** que busca evidências na web e gera relatórios markdown e CSV — tudo pronto para jornalismo investigativo e fiscalização ambiental.
+> Ele lê o shapefile completo, calcula áreas, prioriza os maiores processos e executa um fluxo **RAG** (Retrieval-Augmented Generation) que busca evidências na web e gera relatórios markdown e CSV — tudo pronto para jornalismo investigativo e fiscalização ambiental.
 
 ---
 
