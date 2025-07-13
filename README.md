@@ -128,6 +128,7 @@ flowchart TD
 
 ## limitações e ética
 * Ausência de resultados na busca não significa falta de impacto — confirme em campo.
+* A mensagem no relatório "Nenhum impacto socioambiental significativo foi identificado nas fontes consultadas" deve ser vista com cautela - o script atual considera apenas casos muito graves como significativo, mas isso precisa ser checado no CSV.
 * Refaça as buscas você mesmo a partir do conteúdo da coluna "query_busca" do CSV para ter certeza se são relavantes ou não - cheque tudo!
 * O resultado de uma busca na internet pode variar de acordo com dia, mês, ano, da busca. 
 * Cotas gratuitas da Google CSE são limitadas; ao estourá‑las, a qualidade de busca pode cair.  
