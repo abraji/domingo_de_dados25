@@ -127,7 +127,9 @@ flowchart TD
 ---
 
 ## limitações e ética
-* Ausência de resultados na busca não significa falta de impacto — confirme em campo.  
+* Ausência de resultados na busca não significa falta de impacto — confirme em campo.
+* Refaça as buscas você mesmo a partir do conteúdo da coluna "query_busca" do CSV para ter certeza se são relavantes ou não - cheque tudo!
+* O resultado de uma busca na internet pode variar de acordo com dia, mês, ano, da busca. 
 * Cotas gratuitas da Google CSE são limitadas; ao estourá‑las, a qualidade de busca pode cair.  
 * Modelos generativos podem conter erros factuais; confirme URLs antes de publicar.  
 * Envolva comunidades afetadas antes de divulgar denúncias baseadas nesta ferramenta.
